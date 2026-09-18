@@ -1,0 +1,391 @@
+{
+ "text": {
+  "count": 250,
+  "seed": 20260915,
+  "lowercase": 0,
+  "templates": [
+   "POV: {pov}",
+   "the exact second {who} knew {truth}",
+   "{who} waited all summer to {say}",
+   "tell me you'd {go} with {them}",
+   "some summers {stay}",
+   "we didn't know it was the last {thing2}",
+   "{time} later and I still think about {thing}",
+   "the summer that {changed}",
+   "when {moment}",
+   "nobody warned me about {thing}",
+   "this is what {feeling} looks like",
+   "{who} looked at {them} like that once",
+   "saving this for {future}",
+   "and they said {feeling} isn't real",
+   "one summer and {consequence}",
+   "{place} does something to {people}",
+   "you'll know when it happens",
+   "the last summer before {change}",
+   "{who} said it first, and meant it",
+   "still not over {thing}",
+   "the {adj} kind of love",
+   "everyone gets one {thing2} like this",
+   "{moment} and that was it",
+   "it was always going to be {them}",
+   "the part nobody films",
+   "{time} and one perfect {thing2}",
+   "{who} would {go} for {them}",
+   "no plan, just {place}",
+   "{pov}, and it worked",
+   "the {adj} summer we keep talking about",
+   "{who} never said it out loud",
+   "how it starts: {moment}",
+   "the summer {who} stopped {stopping}",
+   "{them} and {place}. that's it."
+  ],
+  "slots": {
+   "pov": [
+    "you finally said yes",
+    "you stopped waiting",
+    "you get one perfect summer",
+    "he books the flight anyway",
+    "she says stay one more day",
+    "your best friend plans everything",
+    "you meet them at the worst time",
+    "the trip actually happens",
+    "you go back one more time",
+    "nobody wants to go home",
+    "you say it first",
+    "the group chat delivers",
+    "you take the long way home",
+    "someone waits for you"
+   ],
+   "who": [
+    "she",
+    "he",
+    "they",
+    "everyone",
+    "nobody"
+   ],
+   "them": [
+    "her",
+    "him",
+    "them",
+    "that person",
+    "the two of them"
+   ],
+   "people": [
+    "people",
+    "us",
+    "everyone",
+    "the two of them"
+   ],
+   "truth": [
+    "",
+    "for sure",
+    "and said nothing",
+    "and smiled"
+   ],
+   "say": [
+    "say it",
+    "tell her",
+    "tell him",
+    "ask",
+    "call",
+    "show up"
+   ],
+   "go": [
+    "get on the boat",
+    "book the flight",
+    "move cities",
+    "miss the train",
+    "drive all night",
+    "swim out that far",
+    "stay one more day",
+    "walk home slowly"
+   ],
+   "stay": [
+    "stay with you forever",
+    "never really end",
+    "keep coming back",
+    "live rent free",
+    "follow you home",
+    "turn into a whole person"
+   ],
+   "time": [
+    "ten years",
+    "five summers",
+    "a whole decade",
+    "two years",
+    "one winter",
+    "six months",
+    "three summers"
+   ],
+   "changed": [
+    "changed everything",
+    "we never talk about",
+    "rewrote the year",
+    "we all needed",
+    "nobody planned",
+    "fixed something",
+    "started it all"
+   ],
+   "moment": [
+    "the song comes on again",
+    "they finally look up",
+    "the sun hits at 7pm",
+    "your person walks in",
+    "the boat pulls away",
+    "the lights come on",
+    "the car door shuts",
+    "the phone finally buzzes",
+    "someone says stay"
+   ],
+   "thing": [
+    "how fast it goes",
+    "the goodbye part",
+    "missing a place",
+    "feeling this safe",
+    "that one summer",
+    "the way it ended",
+    "the drive home"
+   ],
+   "thing2": [
+    "summer",
+    "night",
+    "trip",
+    "weekend",
+    "goodbye",
+    "chance"
+   ],
+   "feeling": [
+    "being loved properly",
+    "hope",
+    "summer",
+    "freedom",
+    "safety",
+    "a soft life",
+    "easy love"
+   ],
+   "future": [
+    "the trip we keep talking about",
+    "next july",
+    "my someday wedding",
+    "the group chat",
+    "a rainy tuesday",
+    "february",
+    "the next reunion"
+   ],
+   "consequence": [
+    "that's all it took",
+    "it never left",
+    "still not over it",
+    "everything after was different",
+    "we were never the same",
+    "it rearranged me"
+   ],
+   "place": [
+    "the ocean",
+    "that coastline",
+    "golden hour",
+    "an island in august",
+    "a warm night",
+    "the last ferry",
+    "a rooftop at sunset"
+   ],
+   "change": [
+    "everything changed",
+    "they moved away",
+    "real life started",
+    "we all grew up",
+    "the flights got expensive"
+   ],
+   "adj": [
+    "quiet",
+    "loud",
+    "stupid",
+    "gentle",
+    "impossible",
+    "easy",
+    "slow"
+   ],
+   "stopping": [
+    "waiting",
+    "apologising",
+    "holding back",
+    "playing it cool",
+    "saying no"
+   ]
+  }
+ },
+ "caption": {
+  "count": 250,
+  "seed": 77123,
+  "lowercase": 0.25,
+  "credit": "🎵 I Believe in Love - ENU (AU) #ibelieveinlove @enu.music",
+  "templates": [
+   "{hookline} {question}",
+   "{observation}.",
+   "tag the person you'd {go} with.",
+   "send this to whoever {memory}.",
+   "saving this for {future}.",
+   "{time} later and this still {hits}.",
+   "the {adj} kind of love, the one people write songs about.",
+   "not me getting emotional over {thing} again.",
+   "if you know, you know. {question}",
+   "this is your sign to {action}.",
+   "who did you think of? be honest.",
+   "one of those {thing2}s you only get once.",
+   "put this on at golden hour and thank me later.",
+   "{observation} and I'm fine about it. mostly.",
+   "romanticize it. all of it.",
+   "the ending everyone wanted.",
+   "POV: {pov}",
+   "{place} does something to people. {question}",
+   "still the best {best} ever put on screen.",
+   "no notes. none.",
+   "{moment} and that was the whole summer.",
+   "reply with your summer person.",
+   "we're not talking about the goodbye part.",
+   "add this to the playlist you keep meaning to make.",
+   "{hookline} {observation}.",
+   "the way {who} looks at them. that's the post.",
+   "one more {thing2} like this and I'd be unbearable.",
+   "{question} I'll wait.",
+   "{observation}, and that's the whole point.",
+   "normalise {action}.",
+   "{time} of my life in 15 seconds.",
+   "everyone needs a {thing2} like this once.",
+   "the {adj} ones stay with you. {question}",
+   "{hookline} someone had to say it.",
+   "book the {thing2}. you'll make the money back.",
+   "{memory}? this one's for you.",
+   "how it feels when {moment}.",
+   "this is the {best} I keep thinking about."
+  ],
+  "slots": {
+   "hookline": [
+    "the way this lands.",
+    "every single time.",
+    "this scene owns me.",
+    "unwell about this.",
+    "the timing of it.",
+    "it gets me every time.",
+    "no because the timing."
+   ],
+   "observation": [
+    "some people are a whole season",
+    "it really was that simple",
+    "nothing beats a summer that felt like this",
+    "everyone deserves one of these",
+    "it was never about the place",
+    "the best ones sneak up on you",
+    "we were so young and so sure"
+   ],
+   "question": [
+    "who came to mind?",
+    "who are you sending this to?",
+    "tell me I'm wrong.",
+    "same, right?",
+    "be honest.",
+    "do you still think about yours?"
+   ],
+   "memory": [
+    "was there that summer",
+    "still owes you a trip",
+    "never replied",
+    "made that summer happen",
+    "always says yes",
+    "hasn't seen this yet"
+   ],
+   "action": [
+    "book the trip",
+    "text them first",
+    "go back this summer",
+    "say it out loud",
+    "plan the thing",
+    "take the long way home"
+   ],
+   "best": [
+    "summer",
+    "goodbye",
+    "reunion",
+    "first kiss",
+    "ending",
+    "drive"
+   ],
+   "who": [
+    "she",
+    "he",
+    "they"
+   ],
+   "hits": [
+    "hits",
+    "gets me",
+    "wrecks me",
+    "holds up"
+   ],
+   "pov": [
+    "you finally said yes",
+    "the trip actually happens",
+    "you go back one more time",
+    "nobody wants to go home",
+    "your best friend plans everything",
+    "someone waits for you"
+   ],
+   "go": [
+    "get on the boat",
+    "book the flight",
+    "drive all night",
+    "swim out that far",
+    "stay one more day"
+   ],
+   "future": [
+    "the trip we keep talking about",
+    "next july",
+    "my someday wedding",
+    "a rainy tuesday",
+    "february"
+   ],
+   "time": [
+    "ten years",
+    "five summers",
+    "a whole decade",
+    "two years",
+    "three summers"
+   ],
+   "adj": [
+    "quiet",
+    "loud",
+    "stupid",
+    "gentle",
+    "impossible",
+    "easy",
+    "slow"
+   ],
+   "thing": [
+    "how fast it goes",
+    "the goodbye part",
+    "missing a place",
+    "that one summer",
+    "the drive home"
+   ],
+   "thing2": [
+    "summer",
+    "night",
+    "trip",
+    "weekend"
+   ],
+   "place": [
+    "the ocean",
+    "that coastline",
+    "golden hour",
+    "an island in august",
+    "a rooftop at sunset"
+   ],
+   "moment": [
+    "the song came on again",
+    "they finally looked up",
+    "the sun hit at 7pm",
+    "the boat pulled away",
+    "someone said stay"
+   ]
+  }
+ }
+}

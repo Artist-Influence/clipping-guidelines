@@ -1,0 +1,10 @@
+# local Vercel state and tokens, never commit
+.vercel/
+.env*
+
+# auto-unlock test build (python3 build.py --test), local only, never deploy
+dist-test/
+
+# junk
+.DS_Store
+__pycache__/
